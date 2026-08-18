@@ -36,3 +36,7 @@ pytest
 - `v1.0.0`：完整分析、可视化、测试与 CI
 
 功能通过 `feature/data-pipeline` 和 `feature/analysis` 分支开发，并使用非快进合并保留分支历史。
+
+## Bench 分支练习
+
+这是我在 bench 分支中通过 VS Code 完成的修改。
