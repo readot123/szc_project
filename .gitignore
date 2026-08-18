@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mplconfig/
+data/raw/*.csv
+outputs/*
+!outputs/.gitkeep

@@ -1,0 +1,8 @@
+{
+  "dataset_id": "supersam7/bike_sharing",
+  "revision": "main",
+  "filename": "bike_sharing.csv",
+  "source_url": "https://huggingface.co/datasets/supersam7/bike_sharing/resolve/main/bike_sharing.csv",
+  "sha256": "20c595c3f3a8655b138ccbb5b072b64fc7df556bb8ea626f9306ecb061f20440",
+  "bytes": 573391
+}
