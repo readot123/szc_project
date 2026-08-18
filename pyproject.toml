@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# 将项目根目录加入 Python 模块搜索路径，使 `from src.analyze import ...` 可用
+pythonpath = ["."]
+testpaths = ["tests"]
